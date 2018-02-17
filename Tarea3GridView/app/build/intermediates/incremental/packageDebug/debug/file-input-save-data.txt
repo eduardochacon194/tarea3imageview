@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 15 21:43:05 MST 2018
+0.baseType=DIRECTORY
+0.base=/home/casa/AndroidStudioProjects/Tarea3GridView/app/build/intermediates/transforms/dexMerger/debug/62
+0.path=classes.dex
+0.set=DEX
+count=1

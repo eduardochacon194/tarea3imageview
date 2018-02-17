@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/casa/AndroidStudioProjects/Ejm008EneAbr2018GridView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/laptop/AndroidStudioProjects/Ejm008EneAbr2018GridView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/laptop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bbf8324ee891f7d14e393461ef5082c3/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/laptop/AndroidStudioProjects/Ejm008EneAbr2018GridView/C:\\Users\\LS12DOCENTE\\AndroidStudioProjects\\Ejm008EneAbr2018GridView\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/laptop/AndroidStudioProjects/Ejm008EneAbr2018GridView/C:\\Users\\LS12DOCENTE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0a6d0c25299399b4cff430aabf533488\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/casa/AndroidStudioProjects/Tarea3GridView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

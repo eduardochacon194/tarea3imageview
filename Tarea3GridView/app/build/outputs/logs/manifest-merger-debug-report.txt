@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/casa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aca20fed2edc989c2196f964f1ba3fca/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:3:5-63
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/casa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aca20fed2edc989c2196f964f1ba3fca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/casa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aca20fed2edc989c2196f964f1ba3fca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ls12docente.ejm008eneabr2018gridview.App
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:12:19-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/casa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aca20fed2edc989c2196f964f1ba3fca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/casa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aca20fed2edc989c2196f964f1ba3fca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		ADDED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/casa/AndroidStudioProjects/Tarea3GridView/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ac5b6fc6893abbc56d634fc7299287c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9827f6bab9dc34e47b08cb4a0f57efb1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8a6859d85862d1aef1b9502510ec2772/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/38f6a12c419a75f0a231f90d2bfbd11a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc9a53db98b4e728b6ff7ed7c2a86784/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10597dc86eaf6894ca76d1f6192da851/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/037ae245949fd9c14f9f5ac7a35f2ba0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f7a69b774dd4066b86cd30c5510feb93/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/casa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c182998a2910789c29cc16159c49f30f/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/casa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e2a4c2d7ce00d66ab84f6a3127bc5235/AndroidManifest.xml:26:13-58
